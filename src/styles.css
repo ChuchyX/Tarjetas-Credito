@@ -1,1 +1,44 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+
+/* Provide sufficient contrast against white background */
+/* You can add global styles to this file, and also import other style files */
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+  }
+  
+  code {
+    color: #e01a76;
+  }
+  
+  .btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+  }
+  
+  body {
+    background: #c31432; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #240b36, #c31432); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+  
+  .titulo {
+    font-family: 'Potta One', cursive;
+    text-align: center;
+  }
+  
+  .far {
+    cursor: pointer;
+  }
+  
+  .class-greenValid {
+    color: #198754;
+  }
+  
+  .class-redInvalid {
+    color: #dc3545;
+  }
+  
